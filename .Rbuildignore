@@ -1,3 +1,8 @@
 ^NRCS\.Pedon\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^README\.Rmd$
+^README-.*\.png$
+analysis
+^Dockerfile$
+^\.travis\.yml$
